@@ -10,8 +10,8 @@ This project focuses on dog identification using Deep Learning techniques. It ut
 * Multi-classification: Can accurately identify upto 120 breed of dogs.
 
 ## Dataset: 
-I have used kaggle datset called `Dog Vision`
-Kaggle dataset Link: `https://drive.google.com/file/d/1-0g9gvI7WjC_rmW4sSgQmSnPqSVlR72r/view?usp=drive_link`
+I have used kaggle datset called `Dog Vision`<br>
+dataset Link: `https://drive.google.com/file/d/1-0g9gvI7WjC_rmW4sSgQmSnPqSVlR72r/view?usp=drive_link`
 
 ## Usage and Working:
 
