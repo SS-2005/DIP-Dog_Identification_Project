@@ -4,7 +4,7 @@ This project focuses on dog identification using Deep Learning techniques. It ut
 
 ## Features
 * Image Preprocessing: Load and preprocess dog images for model training.
-* Model Training: Train a CNN or pre-trained model (e.g., ResNet, VGG) for classification.
+* Model Training: Pre-trained model for classification.
 * Prediction & Evaluation: Identify dog breeds and evaluate model performance.
 
 ## Usage:
