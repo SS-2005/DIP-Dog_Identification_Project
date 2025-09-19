@@ -33,23 +33,6 @@ The requirment to train the model on image is itself a big challenge.
 * Time taken for complete execution
 * Evaluation parameters 
 
-## AI Usage:
-
-AI can help you fill in some parts but not the whole picture as of now. I have tried resolving errors using it as its a great tool to understand where your going wrong however we cannot relie on it overall.<br>
-I have used AI in following parts:
-* Build basic logic of funtions.
-* Debugging and understanding whats going on.
-* Working flow of suggestions.
-* Evaluation Critera.
-* Ploting graphs
-
-Basically what I have found is that using AI is good sometimes but not always as its not accurate all the times,It sometime lacks required result. I have used AI where it can automate and reduce my manual work 
-<br>
-however giving a proper prompt increases the chances of the output of AI generated answer.
-* Brief Detailed prompt is necessary
-* Input, output and desired logic when give works best
-* Example usage helps in practicality
-
 
 ## Improvement:
 
