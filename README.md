@@ -3,6 +3,7 @@
 ## Overview
 This project focuses on dog identification using Deep Learning techniques. It utilizes image processing and machine learning to classify dog breeds based on input images.
 
+
 ## Features
 * Image Preprocessing: Load and preprocess dog images for model training.
 * Model Training: Pre-trained model for classification.
